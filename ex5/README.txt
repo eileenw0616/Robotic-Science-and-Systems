@@ -17,11 +17,11 @@ Examples of outputs can be found in V1output.txt
 2 png file for homograghy named v1b_cover_to_im1 and v1b_im1_to_im2
 images used in V1 can be found in folder imgs.  
 
-V2
+V2 icp & point cloud
 (b) v2.m Please run this file. Output is in V2_b.txt file
 (c) v2_c.m Please run this file. Output is in V2_c.txt file
 
-V3
+V3 point cloud
 (a) v3_a.m Please run this file. Sample(random point) output is in v3_a.txt
 (b) v3_b.m Run this file. It may take a while. Output(normal and center of 3 planes) is in v3b_output.txt
 (c) v3_b.m Run this file. About 5 min.Output is in v3c_output.txt
