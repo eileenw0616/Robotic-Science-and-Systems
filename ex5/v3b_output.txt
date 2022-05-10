@@ -1,0 +1,28 @@
+v3b_output
+
+3 planes; the first one is table
+
+>> v3_b
+Center: 
+    0.5316
+    0.4495
+    0.1913
+
+Normal: 
+     1     0     0
+
+Center: 
+    0.6795
+    0.3115
+    0.2664
+
+Normal: 
+   -0.5667   -0.2257    0.7924
+
+Center: 
+    0.7987
+    0.2388
+    0.3019
+
+Normal: 
+   -0.1610   -0.6127    0.7737
